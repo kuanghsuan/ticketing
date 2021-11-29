@@ -1,4 +1,4 @@
-name: deploy-uath
+name: deploy-auth
 
 on:
   push:
