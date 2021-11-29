@@ -16,4 +16,4 @@ jobs:
           env:
             DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
             DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
-        - run: dokcer push klin7/auth
+        - run: docker push klin7/auth
