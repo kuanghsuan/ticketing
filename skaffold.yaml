@@ -60,3 +60,6 @@ build:
         manual:
           - src: 'src/**/*.ts'
             dest: .
+
+
+            
